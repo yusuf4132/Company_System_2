@@ -3,6 +3,7 @@ import 'package:company_system_2/registerpage/register_page.dart';
 import 'package:flutter/material.dart';
 
 void main() async {
+  runApp(const HomeApplication());
 }
 
 class HomeApplication extends StatelessWidget {
