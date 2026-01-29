@@ -88,29 +88,35 @@ Company_System, şirket içindeki departman, personel, duyuru, toplantı ve iş 
 
 ## 🖼️ Ekran Görüntüleri
 
-### 1️⃣ Giriş Ekranı
-![Login](./screenshots/1_login.png)
+### 1️ Giriş Ekranı
+![Login](./Company_System_2/app/assets/login.png)
 
-### 2️⃣ Kayıt Ekranı
-![Register](./screenshots/2_admin_dashboard.png)
+### 2️ Kayıt Ekranı
+![Register](./Company_System_2/app/assets/register.png)
 
-### 3️⃣ Departman Yönetimi
-![Department](./screenshots/3_departments.png)
+### 3️ Ana Ekran
+![Ana Ekran](./Company_System_2/app/assets/home.png)
 
-### 4️⃣ Personel Yönetimi
-![Personnel](./screenshots/4_personnel.png)
+### 4️ Menü
+![Menu](./Company_System_2/app/assets/menu.png)
 
-### 5️⃣ Duyuru Ekranı
-![Announcements](./screenshots/5_announcements.png)
+### 5 Departman 
+![Reports](./Company_System_2/app/assets/department.png)
 
-### 6️⃣ Toplantı Odası & Rezervasyon
-![Meeting Room](./screenshots/6_meeting_room.png)
+### 6 Personel
+![Personel](./Company_System_2/app/assets/personel.png)
 
-### 7️⃣ İş Atama & Takip
-![Task Management](./screenshots/7_tasks.png)
+### 7 Toplantı Odası & Rezervasyon
+![Meeting Room](./Company_System_2/app/assets/meet.png)
 
-### 8️⃣ Raporlama Ekranı
-![Reports](./screenshots/8_reports.png)
+### 8 İş Atama & Takip
+![Task Management](./Company_System_2/app/assets/job.png)
+
+### 9 Raporlama Ekranı
+![Reports](./Company_System_2/app/assets/rapor.png)
+
+### 10 Profil
+![Reports](./Company_System_2/app/assets/profile.png)
 
 ---
 
