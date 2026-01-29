@@ -89,7 +89,7 @@ Company_System, şirket içindeki departman, personel, duyuru, toplantı ve iş 
 ## 🖼️ Ekran Görüntüleri
 
 ### 1️ Giriş Ekranı
-![Login](./Company_System_2/app/assets/login.jpeg)
+<img src="./Company_System_2/app/assets/login.jpeg" width="300" />
 
 ### 2️ Kayıt Ekranı
 ![Register](./Company_System_2/app/assets/register.jpeg)
