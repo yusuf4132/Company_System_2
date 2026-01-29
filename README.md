@@ -92,31 +92,31 @@ Company_System, şirket içindeki departman, personel, duyuru, toplantı ve iş 
 <img src="./Company_System_2/app/assets/login.jpeg" width="300" />
 
 ### 2️ Kayıt Ekranı
-![Register](./Company_System_2/app/assets/register.jpeg)
+<img src="./Company_System_2/app/assets/register.jpeg" width="300" />
 
 ### 3️ Ana Ekran
-![Ana Ekran](./Company_System_2/app/assets/home.jpeg)
+<img src="./Company_System_2/app/assets/home.jpeg" width="300" />
 
 ### 4️ Menü
-![Menu](./Company_System_2/app/assets/menu.jpeg)
+<img src="./Company_System_2/app/assets/menu.jpeg" width="300" />
 
 ### 5 Departman 
-![Reports](./Company_System_2/app/assets/department.jpeg)
+<img src="./Company_System_2/app/assets/department.jpeg" width="300" />
 
 ### 6 Personel
-![Personel](./Company_System_2/app/assets/personel.jpeg)
+<img src="./Company_System_2/app/assets/personel.jpeg" width="300" />
 
 ### 7 Toplantı Odası & Rezervasyon
-![Meeting Room](./Company_System_2/app/assets/meet.jpeg)
+<img src="./Company_System_2/app/assets/meet.jpeg" width="300" />
 
 ### 8 İş Atama & Takip
-![Task Management](./Company_System_2/app/assets/job.jpeg)
+<img src="./Company_System_2/app/assets/job.jpeg" width="300" />
 
 ### 9 Raporlama Ekranı
-![Reports](./Company_System_2/app/assets/rapor.jpeg)
+<img src="./Company_System_2/app/assets/rapor.jpeg" width="300" />
 
 ### 10 Profil
-![Reports](./Company_System_2/app/assets/profile.jpeg)
+<img src="./Company_System_2/app/assets/profile.jpeg" width="300" />
 
 ---
 
