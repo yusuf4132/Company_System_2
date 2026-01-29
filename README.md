@@ -33,7 +33,7 @@ Company_System, şirket içindeki departman, personel, duyuru, toplantı ve iş 
 - Kendi departmanına personel ekleme
 - Departman bazlı duyuru ekleme
 - Toplantı odası ekleme ve rezervasyon yapma
-- Yöneticiden gelen işleri alt parçalara bölerek personellere atama
+- Yöneticiden gelen işlerı alt parçalara bölerek personellere atama
 - Departman içi iş takibi ve raporlama
 
 ### 👷 Personel
