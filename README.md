@@ -1,4 +1,4 @@
-# 📱 Company_System
+# 📱 Company System
 
 Şirket içi iş süreçlerini dijital ortama taşıyan, yönetici, departman şefi ve personel rollerine sahip **mobil uygulama**.
 
